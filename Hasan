@@ -34,12 +34,12 @@ function setup_environment() {
     fi
 }
 
-# Display styled "Hasan" and run Glacier Verifier
-function run_Hasan() {
+# Display styled "CryptoAirdropHindi" and run Glacier Verifier
+function run_CryptoAirdropHindi() {
     clear
-    toilet -f future "Hasan" --gay
+    toilet -f future "CryptoAirdropHindi" --gay
     echo
-    echo "Welcome to Hasan Validator Setup!"
+    echo "Welcome to CryptoAirdropHindi Validator Setup!"
     echo
 
     # Prompt for Private Key
